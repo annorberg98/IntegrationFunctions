@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35707.178 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XmlValidation", "ApplyXSLTTransformations\XmlValidation.csproj", "{27B6D833-29CE-4D13-A29C-27A0EE04DD11}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApplyLiquidTransformation", "ApplyLiquidTransformation\ApplyLiquidTransformation.csproj", "{8A811BE3-C1D3-40E7-B167-5F94D9D20F09}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApplyXSLTTransformation", "ApplyXSLTTransformation\ApplyXSLTTransformation.csproj", "{299E403A-5286-4BDF-962B-976966E2B9DC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JSONValidation", "JSONValidation\JSONValidation.csproj", "{36DBBF8B-A319-4C36-ACCD-8167ED9A929A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConvertXMLtoJSON", "ConvertXMLtoJSON\ConvertXMLtoJSON.csproj", "{0398BB45-583C-4C1F-A35C-5E8E816F804D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{27B6D833-29CE-4D13-A29C-27A0EE04DD11}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27B6D833-29CE-4D13-A29C-27A0EE04DD11}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27B6D833-29CE-4D13-A29C-27A0EE04DD11}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27B6D833-29CE-4D13-A29C-27A0EE04DD11}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8A811BE3-C1D3-40E7-B167-5F94D9D20F09}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A811BE3-C1D3-40E7-B167-5F94D9D20F09}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A811BE3-C1D3-40E7-B167-5F94D9D20F09}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A811BE3-C1D3-40E7-B167-5F94D9D20F09}.Release|Any CPU.Build.0 = Release|Any CPU
+		{299E403A-5286-4BDF-962B-976966E2B9DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{299E403A-5286-4BDF-962B-976966E2B9DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{299E403A-5286-4BDF-962B-976966E2B9DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{299E403A-5286-4BDF-962B-976966E2B9DC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{36DBBF8B-A319-4C36-ACCD-8167ED9A929A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36DBBF8B-A319-4C36-ACCD-8167ED9A929A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36DBBF8B-A319-4C36-ACCD-8167ED9A929A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36DBBF8B-A319-4C36-ACCD-8167ED9A929A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0398BB45-583C-4C1F-A35C-5E8E816F804D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0398BB45-583C-4C1F-A35C-5E8E816F804D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0398BB45-583C-4C1F-A35C-5E8E816F804D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0398BB45-583C-4C1F-A35C-5E8E816F804D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
